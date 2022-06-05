@@ -11,4 +11,3 @@ def factorial(num):
         
     return answer
     
-factorial(4)

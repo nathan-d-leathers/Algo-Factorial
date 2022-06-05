@@ -4,7 +4,6 @@ exports.factorial = (num) => {
         return num;
     }
 
-
     for (let i = num; i>= 2; i--) {
         answer = answer * i;
     }
